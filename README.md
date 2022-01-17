@@ -1,0 +1,2 @@
+# Finansoft
+Gestion de microfinance
